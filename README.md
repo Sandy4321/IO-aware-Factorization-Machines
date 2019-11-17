@@ -18,7 +18,7 @@ In this instruction, we use MovieLens.
 The MovieLens data has been used for personalized tag recommendation, which contains 668,953 tag applications of users on movies. 
 We convert each tag application (user ID, movie ID and tag) to a feature vector using one-hot encoding and obtain 90,445 binary features. 
 The following examples are based on this dataset and it will be referred as ml-tag wherever in the files' name or inside the code. 
-We provided the results of our pre-training(We skipped 'bigml-tag_256.data-00000-of-00001' because it is too big).
+We provided the results of our [pre-training](https://drive.google.com/drive/folders/1sPZ7gl5BoPcBGZw3etQF04hcpNxJB9lz?usp=sharing).
 When the dataset is ready, the current directory should be like this:
 
 - code   
